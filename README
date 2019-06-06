@@ -1,0 +1,6 @@
+test_uncool will run your parser (assumed to be located ..) to create a .s
+file.  The .s file is compiled and then run.
+You can use test_uncool as follows:
+
+sh test_uncool <filename>   as in:
+sh test_uncool test0
